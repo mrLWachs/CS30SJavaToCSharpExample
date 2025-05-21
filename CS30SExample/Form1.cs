@@ -12,7 +12,8 @@ namespace CS30SExample
 {
 
     /// <summary>
-    /// 
+    /// This is a Visual Studio and C# example of the same type of code done in
+    /// the Computer Science 30S course for the Graphics and GUIs unit. 
     /// </summary>
     public partial class Form1: Form
     {
