@@ -144,15 +144,15 @@ namespace CS30SExample
             // introduction unit 1, unit 2 methods, unit 3 arrays, and unit 4
             // classes) - see these links to the same class files as our CS30S
             // example but written in C#:
-            //  - ComputerScience30S.cs: 
-            //  - Person.cs: 
-            //  - Student.cs: 
-            //  - Book.cs: 
-            //  - Husky.cs: 
-            //  - Teacher.cs: 
-            //  - Meeting.cs: 
+            //  - ComputerScience30S.cs: https://bit.ly/43rx5L4
+            //  - Person.cs: https://bit.ly/45lYNvc
+            //  - Student.cs: https://bit.ly/4mqbmMd
+            //  - Book.cs: https://bit.ly/44JSb9P
+            //  - Husky.cs: https://bit.ly/3ZqFPQg
+            //  - Teacher.cs: https://bit.ly/4kd6rNi
+            //  - Meeting.cs: https://bit.ly/4jgSBIe
             ////////////////////////////////////////////////////////////////////////
-            
+
             // ComputerScience30S computerScience30S = new ComputerScience30S();
             // computerScience30S.mainClone();
 
