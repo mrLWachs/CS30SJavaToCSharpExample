@@ -77,7 +77,7 @@ namespace CS30SExample
 
 
 
-            return;
+            //return;
 
             ////////////////////////////////////////////////////////////////////////
             // We can see the differences (in some cases the syntax is exactly the
@@ -185,6 +185,11 @@ namespace CS30SExample
         {
             Console.WriteLine(a);
             return b;
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
