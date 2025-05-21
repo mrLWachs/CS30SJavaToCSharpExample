@@ -18,7 +18,7 @@ namespace CS30SExample
     {
 
         // public property, association ("has a") relationship to the 
-        // Student class, an array
+        // Student class, an array 
         public Student[] students;
 
         
